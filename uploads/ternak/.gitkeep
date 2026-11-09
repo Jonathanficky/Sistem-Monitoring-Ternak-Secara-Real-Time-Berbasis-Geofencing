@@ -1,0 +1,4 @@
+# TernakTrack
+
+Folder ini menyimpan foto ternak yang diunggah melalui menu **Data Ternak**.
+File dibuat otomatis oleh aplikasi (`inc/functions.php` → `upload_foto_ternak()`).
