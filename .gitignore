@@ -1,0 +1,5 @@
+﻿uploads/ternak/*
+!uploads/ternak/.gitkeep
+.DS_Store
+Thumbs.db
+*.log
